@@ -1,0 +1,4 @@
+interface:
+  display_name: "SaaS Motion Taste OS"
+  short_description: "Taste system for premium SaaS motion direction"
+  default_prompt: "Use $saas-motion-taste-os to design a premium SaaS launch video concept with tasteful choreography, pacing, and visual direction."
