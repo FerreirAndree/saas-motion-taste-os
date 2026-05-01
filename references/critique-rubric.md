@@ -114,6 +114,36 @@ Questions:
 - Are shadows and depth consistent?
 - Does the final frame feel designed?
 
+## 9. Camera and Staging
+
+5: Camera behavior reveals hierarchy, detail, scale, or continuity while preserving readability.
+
+3: Camera motion adds energy but sometimes lacks purpose or weakens legibility.
+
+1: Camera movement is decorative, disorienting, or used to hide weak composition.
+
+Questions:
+
+- What does the camera reveal that a still frame would not?
+- Does the move resolve on the right focal object?
+- Does perspective support or distort product truth?
+- Is the viewer given enough time to read after the move?
+
+## 10. Product Insight Quality
+
+5: Claims, data, features, and proof moments are specific, differentiated, and credible.
+
+3: The concept has useful product ideas but some claims or data feel generic.
+
+1: The video relies on broad category language and decorative proof.
+
+Questions:
+
+- Which details would a real buyer recognize as true?
+- Which proof beat best demonstrates the core mechanism?
+- Is any data decorative or meaningless?
+- Could the same claims fit a competitor unchanged?
+
 ## Output Format for Critiques
 
 Use this structure:
@@ -123,4 +153,3 @@ Use this structure:
 3. Specific fixes with replacement direction.
 4. Optional revised shot sequence or timing table.
 5. Final taste score across the rubric.
-

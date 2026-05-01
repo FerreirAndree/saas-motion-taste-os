@@ -26,6 +26,7 @@ Second read:
 Composition:
 Primary motion:
 Secondary motion:
+Camera behavior:
 Transition in:
 Transition out:
 Product truth:
@@ -56,6 +57,8 @@ Reusable principle:
 
 - What causes each movement?
 - How is attention transferred?
+- What does the camera reveal or withhold?
+- When does the camera hold still?
 - Where are the pauses?
 - Which transitions preserve memory?
 - Which movements repeat as motifs?
@@ -91,4 +94,3 @@ After teardown, write patterns as rules:
 - Do not recreate a reference shot one-to-one.
 - Use short notes, summaries, and original analysis.
 - Keep links and metadata in the demo library.
-

@@ -24,25 +24,31 @@ Start by identifying the requested output:
 For any substantive video design task, follow this order:
 
 1. Establish the product truth: audience, promise, feature set, emotional tone, and conversion goal.
-2. Choose the narrative shape from `references/story-structures.md`.
-3. Build a shot sequence using `references/shot-archetypes.md`.
-4. Define choreography from `references/choreography-patterns.md`.
-5. Apply product UI and type treatment from `references/product-ui-treatment.md` and `references/typography-layout.md`.
-6. Set pacing from `references/timing-rhythm.md`.
-7. Run the final concept through `references/critique-rubric.md` and `references/anti-patterns.md`.
+2. Select the strongest product insights, claims, and proof points from `references/product-insight-selection.md`.
+3. Choose the narrative shape from `references/story-structures.md`.
+4. Build a shot sequence using `references/shot-archetypes.md`.
+5. Define staging and camera behavior from `references/camera-staging.md`.
+6. Define choreography from `references/choreography-patterns.md`.
+7. Apply product UI and type treatment from `references/product-ui-treatment.md` and `references/typography-layout.md`.
+8. Set pacing from `references/timing-rhythm.md`.
+9. Format the deliverable using `references/output-contracts.md`.
+10. Run the final concept through `references/critique-rubric.md` and `references/anti-patterns.md`.
 
 ## Reference Loading
 
 Load only the references needed for the task:
 
 - `references/taste-principles.md`: Core premium SaaS motion principles and taste rules.
+- `references/product-insight-selection.md`: How to choose product truths, claims, proof moments, and data details.
 - `references/story-structures.md`: Launch-film narrative frameworks and sequencing logic.
 - `references/shot-archetypes.md`: Reusable shot types for SaaS product films.
+- `references/camera-staging.md`: Camera behavior, shot scale, spatial staging, and 2D/2.5D/3D restraint.
 - `references/choreography-patterns.md`: Motion grammar, attention transfer, continuity, and transitions.
 - `references/product-ui-treatment.md`: How to show software without making flat screen recordings.
 - `references/typography-layout.md`: Premium type behavior, copy density, hierarchy, and layout.
 - `references/timing-rhythm.md`: Timing, easing, pacing, pauses, overlaps, and musicality.
 - `references/visual-system.md`: Color, depth, light, material, texture, and brand-world restraint.
+- `references/output-contracts.md`: Required structure for briefs, concepts, storyboards, shot specs, critiques, and teardowns.
 - `references/critique-rubric.md`: Scoring rubric for taste, polish, and production readiness.
 - `references/anti-patterns.md`: Common failures that make SaaS motion look generic or cheap.
 - `references/teardown-method.md`: Method for analyzing reference videos into reusable principles.
@@ -64,6 +70,7 @@ When writing a shot plan, include:
 - Time range or duration.
 - Narrative purpose.
 - On-screen composition.
+- Camera behavior and staging.
 - Primary motion.
 - Secondary motion.
 - Transition in and out.
